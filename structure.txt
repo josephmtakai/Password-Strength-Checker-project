@@ -1,0 +1,13 @@
+Password-Strength-Checker/
+│
+├── project/
+│   ├── backend/
+│   │   ├── password_checker.cpp
+│   │   ├── password_checker.exe (compiled)
+│   │
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│   ├── server.js
+│
+└── README.md
